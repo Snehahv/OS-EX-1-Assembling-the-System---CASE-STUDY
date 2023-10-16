@@ -20,6 +20,7 @@ To Open the case. Unscrew the side panel (or slide it toward the back of the cas
 Install the power supply. Some cases come with the power supply already installed, while others will require to purchase the power supply separately and install it ourself. Have to make sure that the power supply is installed in the correct orientation, and that nothing is blocking the power supply's fan.
 
 The power supply will usually go near the top or the bottom rear of the case. Can determine where the power supply is supposed to sit by looking for a missing section on the back of the case.
+
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/6cb33ca8-ab38-4f13-8a6d-51788953be5f)
 
 Add components to the motherboard. This is usually easiest to do before installing the motherboard, as the case can limit ability to wire components:
@@ -36,24 +37,30 @@ Adding too much thermal paste will create a mess, such as getting paste into the
 Tip: Some processors that come with heat sinks do not need thermal paste because the heat sink already has thermal paste applied by the factory. Check the bottom of the heat sink unit before applying paste to the processor.
 
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/06bf09f7-06b3-4b52-9a7e-02674385c13d)
+
 Attach the heat sink. This varies from heat sink to heat sink, so read the instructions for the processor.
 Most stock coolers attach directly over the processor and clip into the motherboard.
 Aftermarket heat sinks may have brackets that need to be attached underneath the motherboard.
 Skip this step if processor has an installed heat sink.
 
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/2b0175ef-3cc6-4097-8275-db5c957f0a69)
+
 Prepare the case needs to knock the plates out of the back of the case in order to fit the components into the correct positions.
 If the case has separate shelving units to hold the hard drive, install the units using the included screws.
 May need to install and wire the case's fans before installing any components. If so, follow the case's fan installation instructions.
+
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/d7f3083e-342c-4e29-b546-c1e3be469893)
+
 - Secure the motherboard. Once the standoffs are installed, place the motherboard in the case and push it up against the backplate. All of the back ports should fit into the holes in the I/O backplate. - Use the screws provided to secure the motherboard to the standoffs through the shielded screw holes on the motherboard. - Plug in the case connectors. These tend to be located together on the motherboard near the front of the case. The order in which these are connected will depend on which is easiest. - Make sure that the USB ports are connected, the Power and Reset switches, the LED power and hard drive lights, and the audio cable. - The motherboard’s documentation will show where on the motherboard these connectors attach. - There is typically only one way that these connectors can attach to the motherboard. Do not try to force anything to fit. - Install the hard drive. This process will vary slightly depending on your case, but should typically go as follows: - Remove any front panels on the case. - Insert the hard drive into its slot (usually near the top of the case). - Tighten any screws needed to hold the drive-in place. - Plug the hard drive's SATA cable into the SATA slot on the motherboard.
   
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/4c369f66-9b58-4cdd-ac6b-c5bdb6148222)
+
 Connect the power supply to any necessary components. If the power supply is not connected to components which need power, make sure that it is connected to the following locations:
-Motherboard
-Graphics card(s)
-Hard drive(s)
+  Motherboard
+  Graphics card(s)
+  Hard drive(s)
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/6b09acad-55f6-4111-8d98-09cd08e1d732)
+
 Finish the computer assembly.
 Once placed and connected the various internal components for the computer, all that's left to do is ensure that none of the wires interfere with circulation and close up the case.
 If bought a cooling system, install it before proceeding.
@@ -66,9 +73,11 @@ Refer to the cooling system's installation instructions in order to do so.
 Many cases will have a panel which either slides back into place or screws onto the side of the case.
 
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/12852246-e2b2-440b-ae91-b7fc030e32f8)
+
 RUNNING THE SYSTEM
 Attach the computer to an outlet. Using the power source's power cable, plug the computer into a wall outlet or power strip.
 May first have to attach the electrical cable to the power source input on the back of the computer's case.
+
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/1ee0fc2f-7262-4821-b76d-78b7003924f3)
 
 Plug a monitor into the computer. Typically use the graphics card output that is near the bottom of the case, though some motherboards may have this port on the right or left side of the case.
@@ -79,6 +88,7 @@ The output here is usually a DisplayPort or HDMI port.
 Turn on the computer. Press the computer's Power button on the front or back of the case. If everything's properly connected, the computer should start up.
 
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/3b2ff2d3-646b-495a-90d0-73c626d80001)
+
 Install Windows or Linux. Windows is compatible with all PCs and will make full use of their various features (e.g., Bluetooth), but will have to purchase a copy of Windows if not having a product key. Linux is free but may not be able to use all the computer's hardware.
 If not having an installation USB drive, need to create one on another computer before can install the operating system.
 
