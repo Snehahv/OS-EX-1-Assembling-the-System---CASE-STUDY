@@ -1,26 +1,35 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:To Assemble the Computer System
+## AIM:
+To Assemble the Computer System
 
-STEPS:
+## STEPS:
 
-PROCEDURE:
-ASSEMBLING THE SYSTEM
+## PROCEDURE:
+### ASSEMBLING THE SYSTEM
 Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics.
+
 Alternatively, a large metal body like a radiator can also be touched to discharge oneself.
+
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/4bd716e3-f6ee-4055-a7aa-6a68b9b20dcb)
+
 To Open the case. Unscrew the side panel (or slide it toward the back of the case) to do so.
+
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/e76bdd1d-0647-4fe4-9c08-bb39b556fcaa)
 
 Install the power supply. Some cases come with the power supply already installed, while others will require to purchase the power supply separately and install it ourself. Have to make sure that the power supply is installed in the correct orientation, and that nothing is blocking the power supply's fan.
+
 The power supply will usually go near the top or the bottom rear of the case. Can determine where the power supply is supposed to sit by looking for a missing section on the back of the case.
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/6cb33ca8-ab38-4f13-8a6d-51788953be5f)
+
 Add components to the motherboard. This is usually easiest to do before installing the motherboard, as the case can limit ability to wire components:
 Attach the processor to the motherboard by finding the processor port on the motherboard's surface. An indicator on CPU and motherboard will show the correct orientation.
 Attach RAM to the motherboard by finding the RAM slots and inserting the RAM appropriately.
 Attach power supply to the motherboard's power connectors.
 Locate (but do not attach) the motherboard's hard drive SATA port. Can use this to connect the hard drive to the motherboard later.
+
 ![image](https://github.com/Snehahv/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119104131/89e3d015-1504-4545-bace-1720ea623d89)
+
 Apply thermal paste to the processor if necessary.
 Put a small dot (around the size of a grain of rice or a pea) of thermal paste on the CPU.
 Adding too much thermal paste will create a mess, such as getting paste into the motherboard socket, which may short circuit components and decrease the motherboard's value if planning to sell it later.
@@ -80,5 +89,5 @@ Almost all the hardware that was purchased should come with discs that contain t
 Modern versions of Windows and Linux will install most drivers automatically when connected to the Internet.
 
 
-RESULT:
+## RESULT:
 Thus, the computer has been successfully assembled
